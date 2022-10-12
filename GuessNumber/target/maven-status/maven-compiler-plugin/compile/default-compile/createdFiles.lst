@@ -1,0 +1,12 @@
+com\mycompany\guessnumber\data\GameDatabaseDao.class
+com\mycompany\guessnumber\controller\GuessNumberController.class
+com\mycompany\guessnumber\data\RoundDao.class
+com\mycompany\guessnumber\data\RoundDatabaseDao$RoundMapper.class
+com\mycompany\guessnumber\data\GameDao.class
+com\mycompany\guessnumber\TestApplicationConfiguration.class
+com\mycompany\guessnumber\models\Round.class
+com\mycompany\guessnumber\data\GameDatabaseDao$GameMapper.class
+com\mycompany\guessnumber\service\GuessNumberService.class
+com\mycompany\guessnumber\data\RoundDatabaseDao.class
+com\mycompany\guessnumber\App.class
+com\mycompany\guessnumber\models\Game.class
